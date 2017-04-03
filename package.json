@@ -1,0 +1,11 @@
+{
+  "name": "gladys-orangeTv",
+  "version": "0.1.0",
+  "description": "Remote Orange TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mimo",
+  "license": ""
+}
